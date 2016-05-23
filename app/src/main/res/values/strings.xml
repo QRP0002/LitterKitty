@@ -2,7 +2,14 @@
     <string name="app_name">TrashFinder</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">Splash</string>
 
     <!--Home Fragment-->
+
+    <!--Splash -->
+    <string name="username">Exe1PE6yrpOez6VN</string>
+    <string name="password">3d65e2fa33364cd5b8e507d8b8dd54fe</string>
+    <string name="portal_url">https://www.arcgis.com/</string>
+    <string name="file_name">serialized_credentials</string>
 
 </resources>
